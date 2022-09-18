@@ -13,7 +13,7 @@
 
 ## Summary
 The analysis of the election show that:
--There were "x" votes cast in the election
+-There were 369,711 votes cast in the election
 -The candidate were:
   - Charles Casper Stockham
   - Diana DeGette
